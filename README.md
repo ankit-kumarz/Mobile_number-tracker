@@ -6,7 +6,7 @@ CallTracer.in is an online [mobile number tracker](https://calltracer.in/) websi
 
 ## How to use CallTracer.in?
 
-Using CallTracer.in is easy and straightforward. To trace the details of an Indian mobile number, follow these simple steps:
+Using CallTracer.in is easy and straightforward.To trace the details of an Indian mobile number, follow these simple steps:
 
 1. Go to the CallTracer.in website
 2. Enter the mobile number in the search box
